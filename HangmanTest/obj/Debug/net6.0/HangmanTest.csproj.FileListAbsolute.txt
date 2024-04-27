@@ -1,0 +1,15 @@
+/Users/juliaszczepanek/Projects/HangmanTest/HangmanTest/bin/Debug/net6.0/HangmanTest
+/Users/juliaszczepanek/Projects/HangmanTest/HangmanTest/bin/Debug/net6.0/HangmanTest.deps.json
+/Users/juliaszczepanek/Projects/HangmanTest/HangmanTest/bin/Debug/net6.0/HangmanTest.runtimeconfig.json
+/Users/juliaszczepanek/Projects/HangmanTest/HangmanTest/bin/Debug/net6.0/HangmanTest.dll
+/Users/juliaszczepanek/Projects/HangmanTest/HangmanTest/bin/Debug/net6.0/HangmanTest.pdb
+/Users/juliaszczepanek/Projects/HangmanTest/HangmanTest/obj/Debug/net6.0/HangmanTest.csproj.AssemblyReference.cache
+/Users/juliaszczepanek/Projects/HangmanTest/HangmanTest/obj/Debug/net6.0/HangmanTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/juliaszczepanek/Projects/HangmanTest/HangmanTest/obj/Debug/net6.0/HangmanTest.AssemblyInfoInputs.cache
+/Users/juliaszczepanek/Projects/HangmanTest/HangmanTest/obj/Debug/net6.0/HangmanTest.AssemblyInfo.cs
+/Users/juliaszczepanek/Projects/HangmanTest/HangmanTest/obj/Debug/net6.0/HangmanTest.csproj.CoreCompileInputs.cache
+/Users/juliaszczepanek/Projects/HangmanTest/HangmanTest/obj/Debug/net6.0/HangmanTest.dll
+/Users/juliaszczepanek/Projects/HangmanTest/HangmanTest/obj/Debug/net6.0/refint/HangmanTest.dll
+/Users/juliaszczepanek/Projects/HangmanTest/HangmanTest/obj/Debug/net6.0/HangmanTest.pdb
+/Users/juliaszczepanek/Projects/HangmanTest/HangmanTest/obj/Debug/net6.0/HangmanTest.genruntimeconfig.cache
+/Users/juliaszczepanek/Projects/HangmanTest/HangmanTest/obj/Debug/net6.0/ref/HangmanTest.dll
